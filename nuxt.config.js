@@ -74,5 +74,8 @@ export default {
   transpile: [
       "three"
     ]
+  },
+  server: {
+    port: 8000 // default: 3000
   }
 }
