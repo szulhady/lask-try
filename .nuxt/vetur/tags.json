@@ -1,0 +1,17 @@
+{
+  "BarChartHorizontal": {
+    "description": "Auto imported from components/BarChartHorizontal.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Model": {
+    "description": "Auto imported from components/Model.vue"
+  },
+  "SingleLineChart": {
+    "description": "Auto imported from components/SingleLineChart.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  }
+}
